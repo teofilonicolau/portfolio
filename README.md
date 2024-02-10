@@ -22,15 +22,18 @@ O projeto apresenta um estilo moderno e limpo, com destaque para a utilização 
 
 ### Seção de Apresentação
 
-A seção de apresentação conta com um efeito de revelação de texto, criando um impacto visual impressionante. O uso de imagens de fundo e sobreposições de cores contribui para a atmosfera única desta seção.
+A seção de apresentação conta com um efeito de revelação de texto, criando um impacto visual interessante. 
+O uso de imagens de fundo e sobreposições de cores contribui para a atmosfera única desta seção.
 
 ### Seção de Portfólio
 
-A seção de portfólio é estruturada de forma organizada, com informações detalhadas sobre os projetos apresentados. O design responsivo permite uma experiência agradável tanto em dispositivos móveis quanto em telas maiores.
+A seção de portfólio é estruturada de forma organizada, com informações detalhadas sobre os projetos apresentados. 
+O design responsivo permite uma experiência agradável tanto em dispositivos móveis quanto em telas maiores.
 
 ## Responsividade
 
-O projeto foi desenvolvido com a preocupação de proporcionar uma experiência consistente em diferentes dispositivos. A utilização de media queries garante a adaptação adequada em telas de tamanho variável.
+O projeto foi desenvolvido com a preocupação de proporcionar uma experiência consistente em diferentes dispositivos. 
+A utilização de media queries garante a adaptação adequada em telas de tamanho variável.
 
 ## Hospedagem
 
